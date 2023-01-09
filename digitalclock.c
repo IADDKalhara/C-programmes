@@ -7,4 +7,6 @@ int main(void)
 
     printf("Set time: ");
     scanf("%d%d%d", &h, &m, &s);
+
+    
 }
